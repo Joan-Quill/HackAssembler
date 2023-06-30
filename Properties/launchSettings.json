@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HackAssembler": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\JoJo\\source\\repos\\HackAssembler"
+    }
+  }
+}
